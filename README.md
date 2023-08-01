@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pooja Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **E-learning Website**
+- 🔭 I’m currently working on **Deep Learning Project**
 
 - 📫 How to reach me **poojasharmaje2001@gmail.com**
 
